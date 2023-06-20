@@ -1,7 +1,7 @@
 
 # Service Manage Places
 
-API para gerenciar lugares que faz parte desse desafio técnico para pessoas desenvolvedoras backend que se candidatam para a ClickBus.
+API para gerenciar lugares que faz parte desse desafio técnico para quem se candidata a ClickBus.
 
 
 ## O que foi usado
